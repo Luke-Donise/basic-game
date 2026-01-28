@@ -29,7 +29,7 @@ Since development is paused, installation is for reference only:
 
 ```bash
 # Clone the repository
-git clone https://github.com/lukeduck321/ball-game
+git clone https://github.com/Luke-Donise/basic-game
 
 # Navigate to the project directory
 cd ball-game
