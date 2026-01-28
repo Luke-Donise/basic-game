@@ -32,7 +32,7 @@ Since development is paused, installation is for reference only:
 git clone https://github.com/Luke-Donise/basic-game
 
 # Navigate to the project directory
-cd ball-game
+cd basic-game
 ```
 
 ## Usage
